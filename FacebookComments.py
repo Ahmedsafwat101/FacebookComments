@@ -12,5 +12,5 @@ for i in range(numberOfComments):
     pyautogui.typewrite(comments[i%len(comments)])
     pyautogui.typewrite('\n')
     #this time will give you normal delay to not show that you are using a script 
-    time.sleep(4)
+    time.sleep(15)
 
