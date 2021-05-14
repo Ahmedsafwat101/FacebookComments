@@ -2,7 +2,8 @@ import pyautogui
 import time
 
 # Write any comment you need  
-comments = ["#FreePalestine","‎‏#savesheikhjarrah #ŞeyhJarrahmahallesinkurtarın #SalvailquartierediSheikhJarrah #RettedasViertelSheikhJarrah #sauvezlequartierdesheikhjarra","#GazaUnderAttack","#Israel_uses_phosphorus_bombs#SaveGaza#GazaUnderAttack#Gaza_Under_Attack#Palestine","#Save_GAZA","#Palestinian","#GazaUnderAttack #Gaza #israelusesphosphorusbombs #Palestine ","#GazaUnderAttack #Gaza #israelusesphosphorusbombs #Palestine #FreePalestine #savesheikhjarrah","# this time will give you 5 seconds to put your cursor on the write place for writing comments"]  
+comments = ["#FreePalestine","#SalvailquartierediSheikhJarrah #RettedasViertelSheikhJarrah ","#GazaUnderAttack","#Israel_uses_phosphorus_bombs"," #SaveGaza"," #Palestine","#Save_GAZA",
+"#ŞeyhJarrah_mahallesini_kurtar","#Siehe_SheikhJarrah_Nachbarschaft","#Sauver_le_quartier_de_SheikhJarrah","#Salva_el_barrio_de_SheikhJarrah","#Salva_il_quartiere_di_SheikhJarrah"]  
 time.sleep(5)
 
 #numberOfComments can be any number 
